@@ -26,8 +26,6 @@ Frame:
 - Wooden legs or PVC or Copper pipes, Painted
      * (I recommend PVC pipes since it is very easy to assemble)
 
-______________________________________________________________
-
 #Software:
 
 Program features:

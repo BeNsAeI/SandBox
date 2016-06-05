@@ -1,0 +1,2 @@
+C:\Users\Public\Documents\Unity Projects\Tutorial-1- Roll a ball\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\Unity Projects\SandBox\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
